@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "assets": {
+    "power_cell": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/1c71fd38-9238-430b-9250-1f02b8d3d635/prop/1767714781444_prop.png?t=1768241827667",
+      "name": "Power Cell",
+      "asset_type": "prop",
+      "metadata": {
+        "width": 1024,
+        "height": 1024,
+        "format": "png"
+      }
+    },
+    "test_beaker": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/1c71fd38-9238-430b-9250-1f02b8d3d635/prop/1767714554842_prop.png?t=1768241828985",
+      "name": "Test Beaker",
+      "asset_type": "prop",
+      "metadata": {
+        "width": 1024,
+        "height": 1024,
+        "format": "png"
+      }
+    },
+    "underwater": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/1c71fd38-9238-430b-9250-1f02b8d3d635/background/1766524753824_background.png?t=1768241830497",
+      "name": "Underwater",
+      "asset_type": "background",
+      "metadata": {
+        "width": 1920,
+        "height": 1080,
+        "format": "png"
+      }
+    },
+    "new_turtle_key": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/1c71fd38-9238-430b-9250-1f02b8d3d635/prop/1766524591755_prop.png?t=1768241831820",
+      "name": "New Turtle Key",
+      "asset_type": "prop",
+      "metadata": {
+        "width": 1024,
+        "height": 1024,
+        "format": "png"
+      }
+    },
+    "small_bush": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/1c71fd38-9238-430b-9250-1f02b8d3d635/prop/1766516585325_prop.png?t=1768241833134",
+      "name": "Small Bush",
+      "asset_type": "prop",
+      "metadata": {
+        "width": 1024,
+        "height": 1024,
+        "format": "png"
+      }
+    },
+    "chest": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/1c71fd38-9238-430b-9250-1f02b8d3d635/prop/1766517029653_prop.png?t=1768241834310",
+      "name": "Chest",
+      "asset_type": "prop",
+      "metadata": {
+        "width": 1024,
+        "height": 1024,
+        "format": "png"
+      }
+    },
+    "cup_of_computer_chips": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/1c71fd38-9238-430b-9250-1f02b8d3d635/prop/1766522745482_prop.png?t=1768241835862",
+      "name": "Cup of Computer Chips",
+      "asset_type": "prop",
+      "metadata": {
+        "width": 1024,
+        "height": 1024,
+        "format": "png"
+      }
+    },
+    "mushrooms": {
+      "url": "https://api.makko.ai/storage/v1/object/public/image-assets/1c71fd38-9238-430b-9250-1f02b8d3d635/prop/1766516315014_prop.png?t=1768241837504",
+      "name": "Mushrooms",
+      "asset_type": "prop",
+      "metadata": {
+        "width": 1024,
+        "height": 1024,
+        "format": "png"
+      }
+    }
+  }
+}
